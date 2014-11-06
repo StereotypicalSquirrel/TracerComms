@@ -8,6 +8,7 @@ See https://www.john.geek.nz/category/projects/solar-power/ for info on how to p
 It uses port /dev/ttyAMA0 at 9600 by default
 
 Usage:
+```
 >./TracerComms --help
 -----------------------------------------------------------------------------
 |          EP Solar Tracer communicator v1.0                                |
@@ -28,3 +29,4 @@ Usage:
 --verbose Talk more
 --help Show this help
 --baud <baudrate>
+```
